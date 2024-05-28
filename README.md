@@ -1,16 +1,16 @@
-#Josef von Hoffmann Doyle 
+# A site for Logic and Semantics
 
-I am a master student of Logic at the University of Amsterdam in the Netherlands. I will write my thesis on frame semantics for variants of the Lambek Calculus.
+
 
 <details>
-<summary>Talks</summary>
+<summary>Logic</summary>
 
 
 </details>
 
 
 <details>
-<summary>Teaching</summary>
+<summary>Semantics</summary>
 
 
 </details>
